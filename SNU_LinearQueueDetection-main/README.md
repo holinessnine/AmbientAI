@@ -1,5 +1,5 @@
 ### SNU_PedestrianClassification_ShuttleBus
-w/ Haemin JANG, Seonggu SHIN (SNU GSDS Master's Students)
+w/ Haemin JANG, Seonggu SHIN (SNU GSDS Master's Students)  
 w/ Joomyeong KIM, Sangmin LEE (SNU IE Colleagues)
 
 ##### SNU Shuttle Bus Queue Information Service via YOLOv5 (SNU GSDS Ambient AI Competition Winner)
